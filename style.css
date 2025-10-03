@@ -51,7 +51,7 @@ background-color: #D5E1EF ;
 @media (max-width: 375px){
     body{
        padding-top: 35%; 
-       background-color: green;
+    
     }
     .maincard{
     /* margin-top: 30%; */
