@@ -4,9 +4,9 @@ background-color: #D5E1EF ;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* font-family: [Outfit](https://fonts.google.com/specimen/Outfit); */
+   
     padding-top: 5%;
-    
+    font-family: "Outfit", sans-serif;
    
 }
 .maincard{
@@ -51,7 +51,7 @@ background-color: #D5E1EF ;
 }  
 @media (max-width: 375px){
     body{
-        padding-top:30% ;
+        
     }
     .maincard{
     /* margin-top: 30%; */
